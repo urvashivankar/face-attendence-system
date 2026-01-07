@@ -2,7 +2,7 @@
 
 This is a real-time face attendance system built with Python and OpenCV. It features anti-spoofing (Liveness Detection) using built-in OpenCV Haarcascades and LBPH recognition, making it universally compatible with Python 3.14+ and Windows without needing heavy C++ build tools.
 
-![System Verification Proof](file:///c:/Users/urvashi/OneDrive/Desktop/AI/OpenCV/projects/Face%20Attendance%20System/demo_screenshot.png)
+![System Verification Proof](demo_screenshot.png)
 
 ## 🔹 Features
 - **Face Detection**: Fast real-time detection via **OpenCV Haarcascades**.
