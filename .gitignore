@@ -26,8 +26,6 @@ dataset/
 encodings/lbph_model.yml
 encodings/names.pkl
 attendance.csv
-demo_screenshot.png
-
 # IDEs
 .vscode/
 .idea/
